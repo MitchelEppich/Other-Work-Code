@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: f58abd073c454d7428d080ceaadc0281
+timeCreated: 1463534758
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Axe
+    100002: Barred Floor
+    100004: Barred Wall
+    100006: Bed Frame
+    100008: Door Stall
+    100010: Door with Bars
+    100012: Door With Bars Closed
+    100014: Door Wooden
+    100016: Examine Chair
+    100018: Floor Corner
+    100020: Floor Edge
+    100022: Floor Empty
+    100024: Floor with Hole
+    100026: Hinge
+    100028: Hinge.001
+    100030: Lamp
+    100032: Lamp Belt
+    100034: Lamp Belt.001
+    100036: Lamp Belt.002
+    100038: Lamp Belt.003
+    100040: Lamp Belt.004
+    100042: Materess
+    100044: Pile of Cloth
+    100046: Roof Edge Corner
+    100048: Roof Latch
+    100050: //RootNode
+    100052: Side Table
+    100054: Simple Floor
+    100056: Simple Pillar
+    100058: Simple Roof Edge
+    100060: Simple Stairs
+    100062: Simple Wall
+    100064: Simple Wall Center
+    100066: Stairs Full Beam
+    100068: Stairs Half Beam
+    100070: Stairs Half Beam Center
+    100072: Stall
+    100074: Toilet
+    100076: Trap Door
+    100078: Wall Barred with Door Opening
+    100080: Wall Corner Base Trim
+    100082: Wall Corner Trim
+    100084: Wall Garage Door Inner
+    100086: Wall Garage Door Left
+    100088: Wall Garage Door Right
+    100090: Wall Torch
+    100092: Wall Trim
+    100094: Wall Trim with Door Opening
+    100096: Wall with Bar Window
+    100098: Wall With Barred Lookout
+    100100: Wall with Door Opening
+    100102: Wall with Window
+    400000: Axe
+    400002: Barred Floor
+    400004: Barred Wall
+    400006: Bed Frame
+    400008: Door Stall
+    400010: Door with Bars
+    400012: Door With Bars Closed
+    400014: Door Wooden
+    400016: Examine Chair
+    400018: Floor Corner
+    400020: Floor Edge
+    400022: Floor Empty
+    400024: Floor with Hole
+    400026: Hinge
+    400028: Hinge.001
+    400030: Lamp
+    400032: Lamp Belt
+    400034: Lamp Belt.001
+    400036: Lamp Belt.002
+    400038: Lamp Belt.003
+    400040: Lamp Belt.004
+    400042: Materess
+    400044: Pile of Cloth
+    400046: Roof Edge Corner
+    400048: Roof Latch
+    400050: //RootNode
+    400052: Side Table
+    400054: Simple Floor
+    400056: Simple Pillar
+    400058: Simple Roof Edge
+    400060: Simple Stairs
+    400062: Simple Wall
+    400064: Simple Wall Center
+    400066: Stairs Full Beam
+    400068: Stairs Half Beam
+    400070: Stairs Half Beam Center
+    400072: Stall
+    400074: Toilet
+    400076: Trap Door
+    400078: Wall Barred with Door Opening
+    400080: Wall Corner Base Trim
+    400082: Wall Corner Trim
+    400084: Wall Garage Door Inner
+    400086: Wall Garage Door Left
+    400088: Wall Garage Door Right
+    400090: Wall Torch
+    400092: Wall Trim
+    400094: Wall Trim with Door Opening
+    400096: Wall with Bar Window
+    400098: Wall With Barred Lookout
+    400100: Wall with Door Opening
+    400102: Wall with Window
+    2300000: Axe
+    2300002: Barred Floor
+    2300004: Barred Wall
+    2300006: Bed Frame
+    2300008: Door Stall
+    2300010: Door with Bars
+    2300012: Door With Bars Closed
+    2300014: Door Wooden
+    2300016: Examine Chair
+    2300018: Floor Corner
+    2300020: Floor Edge
+    2300022: Floor Empty
+    2300024: Floor with Hole
+    2300026: Hinge
+    2300028: Hinge.001
+    2300030: Lamp
+    2300032: Lamp Belt
+    2300034: Lamp Belt.001
+    2300036: Lamp Belt.002
+    2300038: Lamp Belt.003
+    2300040: Lamp Belt.004
+    2300042: Materess
+    2300044: Pile of Cloth
+    2300046: Roof Edge Corner
+    2300048: Roof Latch
+    2300050: Side Table
+    2300052: Simple Floor
+    2300054: Simple Pillar
+    2300056: Simple Roof Edge
+    2300058: Simple Stairs
+    2300060: Simple Wall
+    2300062: Simple Wall Center
+    2300064: Stairs Full Beam
+    2300066: Stairs Half Beam
+    2300068: Stairs Half Beam Center
+    2300070: Stall
+    2300072: Toilet
+    2300074: Trap Door
+    2300076: Wall Barred with Door Opening
+    2300078: Wall Corner Base Trim
+    2300080: Wall Corner Trim
+    2300082: Wall Garage Door Inner
+    2300084: Wall Garage Door Left
+    2300086: Wall Garage Door Right
+    2300088: Wall Torch
+    2300090: Wall Trim
+    2300092: Wall Trim with Door Opening
+    2300094: Wall with Bar Window
+    2300096: Wall With Barred Lookout
+    2300098: Wall with Door Opening
+    2300100: Wall with Window
+    3300000: Axe
+    3300002: Barred Floor
+    3300004: Barred Wall
+    3300006: Bed Frame
+    3300008: Door Stall
+    3300010: Door with Bars
+    3300012: Door With Bars Closed
+    3300014: Door Wooden
+    3300016: Examine Chair
+    3300018: Floor Corner
+    3300020: Floor Edge
+    3300022: Floor Empty
+    3300024: Floor with Hole
+    3300026: Hinge
+    3300028: Hinge.001
+    3300030: Lamp
+    3300032: Lamp Belt
+    3300034: Lamp Belt.001
+    3300036: Lamp Belt.002
+    3300038: Lamp Belt.003
+    3300040: Lamp Belt.004
+    3300042: Materess
+    3300044: Pile of Cloth
+    3300046: Roof Edge Corner
+    3300048: Roof Latch
+    3300050: Side Table
+    3300052: Simple Floor
+    3300054: Simple Pillar
+    3300056: Simple Roof Edge
+    3300058: Simple Stairs
+    3300060: Simple Wall
+    3300062: Simple Wall Center
+    3300064: Stairs Full Beam
+    3300066: Stairs Half Beam
+    3300068: Stairs Half Beam Center
+    3300070: Stall
+    3300072: Toilet
+    3300074: Trap Door
+    3300076: Wall Barred with Door Opening
+    3300078: Wall Corner Base Trim
+    3300080: Wall Corner Trim
+    3300082: Wall Garage Door Inner
+    3300084: Wall Garage Door Left
+    3300086: Wall Garage Door Right
+    3300088: Wall Torch
+    3300090: Wall Trim
+    3300092: Wall Trim with Door Opening
+    3300094: Wall with Bar Window
+    3300096: Wall With Barred Lookout
+    3300098: Wall with Door Opening
+    3300100: Wall with Window
+    4300000: Wall Garage Door Right
+    4300002: Wall Garage Door Inner
+    4300004: Wall Garage Door Left
+    4300006: Simple Pillar
+    4300008: Wall with Window
+    4300010: Examine Chair
+    4300012: Simple Wall Center
+    4300014: Door Stall
+    4300016: Stall
+    4300018: Toilet
+    4300020: Side Table
+    4300022: Pile of Cloth
+    4300024: Bed Frame
+    4300026: Materess
+    4300028: Roof Latch
+    4300030: Lamp Belt
+    4300032: Lamp Belt.004
+    4300034: Lamp Belt.001
+    4300036: Lamp Belt.003
+    4300038: Lamp Belt.002
+    4300040: Lamp
+    4300042: Stairs Half Beam Center
+    4300044: Stairs Half Beam
+    4300046: Stairs Full Beam
+    4300048: Wall With Barred Lookout
+    4300050: Floor Corner
+    4300052: Floor Edge
+    4300054: Roof Edge Corner
+    4300056: Simple Roof Edge
+    4300058: Simple Stairs
+    4300060: Axe
+    4300062: Wall Corner Base Trim
+    4300064: Wall Corner Trim
+    4300066: Wall Trim with Door Opening
+    4300068: Door with Bars
+    4300070: Door With Bars Closed
+    4300072: Trap Door
+    4300074: Hinge
+    4300076: Hinge.001
+    4300078: Simple Floor
+    4300080: Wall Torch
+    4300082: Wall Trim
+    4300084: Wall with Door Opening
+    4300086: Wall with Bar Window
+    4300088: Simple Wall
+    4300090: Floor with Hole
+    4300092: Floor Empty
+    4300094: Door Wooden
+    4300096: Barred Floor
+    4300098: Wall Barred with Door Opening
+    4300100: Barred Wall
+    7400000: Door with Bars|Cube.002Action
+    7400002: Door with Bars|Cube.002Action.001
+    7400004: Door with Bars|Cube.002Action.002
+    7400006: Door with Bars|Cube.002Action.003
+    7400008: Door with Bars|Cube.002Action.004
+    7400010: Door With Bars Closed|Cube.002Action
+    7400012: Door With Bars Closed|Cube.002Action.001
+    7400014: Door With Bars Closed|Cube.002Action.002
+    7400016: Door With Bars Closed|Cube.002Action.003
+    7400018: Door With Bars Closed|Cube.002Action.004
+    7400020: Wall with Door Opening|Cube.002Action
+    7400022: Wall with Door Opening|Cube.002Action.001
+    7400024: Wall with Door Opening|Cube.002Action.002
+    7400026: Wall with Door Opening|Cube.002Action.003
+    7400028: Wall with Door Opening|Cube.002Action.004
+    7400030: Door Wooden|Cube.002Action
+    7400032: Door Wooden|Cube.002Action.001
+    7400034: Door Wooden|Cube.002Action.002
+    7400036: Door Wooden|Cube.002Action.003
+    7400038: Door Wooden|Cube.002Action.004
+    7400040: Wall Barred with Door Opening|Cube.002Action
+    7400042: Wall Barred with Door Opening|Cube.002Action.001
+    7400044: Wall Barred with Door Opening|Cube.002Action.002
+    7400046: Wall Barred with Door Opening|Cube.002Action.003
+    7400048: Wall Barred with Door Opening|Cube.002Action.004
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

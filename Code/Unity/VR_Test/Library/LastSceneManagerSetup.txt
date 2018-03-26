@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Focal Point VR/Demo 4 - Moving in a World/Demo 4 - Moving in a World.unity
+  isLoaded: 1
+  isActive: 1

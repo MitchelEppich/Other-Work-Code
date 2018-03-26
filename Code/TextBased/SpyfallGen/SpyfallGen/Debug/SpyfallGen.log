@@ -1,0 +1,5 @@
+﻿  Game.cpp
+c:\users\squea\documents\barewaregames\textbased\spyfallgen\spyfallgen\game.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\squea\documents\barewaregames\textbased\spyfallgen\spyfallgen\game.cpp(64): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  SpyfallGen.vcxproj -> C:\Users\squea\Documents\BarewareGames\TextBased\SpyfallGen\Debug\SpyfallGen.exe
+  SpyfallGen.vcxproj -> C:\Users\squea\Documents\BarewareGames\TextBased\SpyfallGen\Debug\SpyfallGen.pdb (Partial PDB)

@@ -1,0 +1,314 @@
+﻿  slinkedlist.cpp
+  hashtableprivate.cpp
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(5): error C2955: 'SLinkedList': use of class template requires template argument list
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.h(33): note: see declaration of 'SLinkedList'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): error C2244: 'SLinkedList::CopyList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(5): note: see declaration of 'SLinkedList::CopyList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): note: 'void SLinkedList::CopyList(const SLinkedList &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): note: 'void SLinkedList<T>::CopyList(const SLinkedList<T> &)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): error C2244: 'SLinkedList::DeleteList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(21): note: see declaration of 'SLinkedList::DeleteList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): note: 'int SLinkedList::DeleteList(void)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): note: 'void SLinkedList<T>::DeleteList(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): error C2244: 'SLinkedList::SLinkedList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(38): note: see declaration of 'SLinkedList::SLinkedList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: 'SLinkedList::SLinkedList(void)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: 'SLinkedList<T>::SLinkedList(const SLinkedList<T> &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: 'SLinkedList<T>::SLinkedList(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(47): error C2955: 'SLinkedList': use of class template requires template argument list
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.h(33): note: see declaration of 'SLinkedList'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): error C2244: 'SLinkedList::SLinkedList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(47): note: see declaration of 'SLinkedList::SLinkedList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: 'SLinkedList::SLinkedList(const SLinkedList &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: 'SLinkedList<T>::SLinkedList(const SLinkedList<T> &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: 'SLinkedList<T>::SLinkedList(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): error C2244: 'SLinkedList::~SLinkedList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(54): note: see declaration of 'SLinkedList::~SLinkedList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): note: 'SLinkedList::~SLinkedList(void)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): note: 'SLinkedList<T>::~SLinkedList(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): error C2244: 'SLinkedList::InsertFront': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(65): note: see declaration of 'SLinkedList::InsertFront'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): note: 'void SLinkedList::InsertFront(T)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): note: 'void SLinkedList<T>::InsertFront(T)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): error C2244: 'SLinkedList::InsertBack': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(85): note: see declaration of 'SLinkedList::InsertBack'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): note: 'void SLinkedList::InsertBack(T)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): note: 'void SLinkedList<T>::InsertBack(T)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): error C2244: 'SLinkedList::Remove': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(104): note: see declaration of 'SLinkedList::Remove'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): note: 'bool SLinkedList::Remove(T)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): note: 'bool SLinkedList<T>::Remove(T)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): error C2244: 'SLinkedList::RemoveAll': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(133): note: see declaration of 'SLinkedList::RemoveAll'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): note: 'void SLinkedList::RemoveAll(void)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): note: 'void SLinkedList<T>::RemoveAll(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): error C2244: 'SLinkedList::Size': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(150): note: see declaration of 'SLinkedList::Size'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): note: 'int SLinkedList::Size(void) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): note: 'int SLinkedList<T>::Size(void) const'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): error C2244: 'SLinkedList::IsEmpty': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(157): note: see declaration of 'SLinkedList::IsEmpty'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): note: 'bool SLinkedList::IsEmpty(void) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): note: 'bool SLinkedList<T>::IsEmpty(void) const'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): error C2244: 'SLinkedList::Contains': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(164): note: see declaration of 'SLinkedList::Contains'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): note: 'bool SLinkedList::Contains(T) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): note: 'bool SLinkedList<T>::Contains(T) const'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): error C2244: 'SLinkedList::Retrieve': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(181): note: see declaration of 'SLinkedList::Retrieve'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): note: 'T *SLinkedList::Retrieve(T)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): note: 'T *SLinkedList<T>::Retrieve(T)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): error C2244: 'SLinkedList::Dump': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(201): note: see declaration of 'SLinkedList::Dump'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): note: 'std::vector<T,std::allocator<_Ty>> SLinkedList::Dump(void) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): note: 'std::vector<T,std::allocator<_Ty>> SLinkedList<T>::Dump(void) const'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(223): error C2955: 'SLinkedList': use of class template requires template argument list
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.h(33): note: see declaration of 'SLinkedList'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): error C2244: 'SLinkedList::operator =': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(223): note: see declaration of 'SLinkedList::operator ='
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): note: 'SLinkedList &SLinkedList::operator =(const SLinkedList &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): note: 'SLinkedList<T> &SLinkedList<T>::operator =(const SLinkedList<T> &)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\hashtableprivate.cpp(5): error C2563: mismatch in formal parameter list
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\hashtableprivate.cpp(5): error C2568: '<': unable to resolve function overload
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\hashtableprivate.cpp(5): note: could be 'size_t std::size(const _Ty (&)[_Size]) noexcept'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\hashtableprivate.cpp(5): note: or       'unknown-type std::size(const _Container &)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\hashtableprivate.cpp(7): error C3861: 'Insert': identifier not found
+  hashtable.cpp
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(5): error C2955: 'SLinkedList': use of class template requires template argument list
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.h(33): note: see declaration of 'SLinkedList'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): error C2244: 'SLinkedList::CopyList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(5): note: see declaration of 'SLinkedList::CopyList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): note: 'void SLinkedList::CopyList(const SLinkedList &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): note: 'void SLinkedList<T>::CopyList(const SLinkedList<T> &)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): error C2244: 'SLinkedList::DeleteList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(21): note: see declaration of 'SLinkedList::DeleteList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): note: 'int SLinkedList::DeleteList(void)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): note: 'void SLinkedList<T>::DeleteList(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): error C2244: 'SLinkedList::SLinkedList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(38): note: see declaration of 'SLinkedList::SLinkedList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: 'SLinkedList::SLinkedList(void)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: 'SLinkedList<T>::SLinkedList(const SLinkedList<T> &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: 'SLinkedList<T>::SLinkedList(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(47): error C2955: 'SLinkedList': use of class template requires template argument list
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.h(33): note: see declaration of 'SLinkedList'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): error C2244: 'SLinkedList::SLinkedList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(47): note: see declaration of 'SLinkedList::SLinkedList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: 'SLinkedList::SLinkedList(const SLinkedList &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: 'SLinkedList<T>::SLinkedList(const SLinkedList<T> &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: 'SLinkedList<T>::SLinkedList(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): error C2244: 'SLinkedList::~SLinkedList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(54): note: see declaration of 'SLinkedList::~SLinkedList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): note: 'SLinkedList::~SLinkedList(void)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): note: 'SLinkedList<T>::~SLinkedList(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): error C2244: 'SLinkedList::InsertFront': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(65): note: see declaration of 'SLinkedList::InsertFront'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): note: 'void SLinkedList::InsertFront(T)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): note: 'void SLinkedList<T>::InsertFront(T)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): error C2244: 'SLinkedList::InsertBack': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(85): note: see declaration of 'SLinkedList::InsertBack'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): note: 'void SLinkedList::InsertBack(T)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): note: 'void SLinkedList<T>::InsertBack(T)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): error C2244: 'SLinkedList::Remove': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(104): note: see declaration of 'SLinkedList::Remove'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): note: 'bool SLinkedList::Remove(T)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): note: 'bool SLinkedList<T>::Remove(T)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): error C2244: 'SLinkedList::RemoveAll': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(133): note: see declaration of 'SLinkedList::RemoveAll'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): note: 'void SLinkedList::RemoveAll(void)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): note: 'void SLinkedList<T>::RemoveAll(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): error C2244: 'SLinkedList::Size': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(150): note: see declaration of 'SLinkedList::Size'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): note: 'int SLinkedList::Size(void) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): note: 'int SLinkedList<T>::Size(void) const'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): error C2244: 'SLinkedList::IsEmpty': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(157): note: see declaration of 'SLinkedList::IsEmpty'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): note: 'bool SLinkedList::IsEmpty(void) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): note: 'bool SLinkedList<T>::IsEmpty(void) const'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): error C2244: 'SLinkedList::Contains': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(164): note: see declaration of 'SLinkedList::Contains'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): note: 'bool SLinkedList::Contains(T) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): note: 'bool SLinkedList<T>::Contains(T) const'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): error C2244: 'SLinkedList::Retrieve': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(181): note: see declaration of 'SLinkedList::Retrieve'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): note: 'T *SLinkedList::Retrieve(T)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): note: 'T *SLinkedList<T>::Retrieve(T)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): error C2244: 'SLinkedList::Dump': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(201): note: see declaration of 'SLinkedList::Dump'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): note: 'std::vector<T,std::allocator<_Ty>> SLinkedList::Dump(void) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): note: 'std::vector<T,std::allocator<_Ty>> SLinkedList<T>::Dump(void) const'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(223): error C2955: 'SLinkedList': use of class template requires template argument list
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.h(33): note: see declaration of 'SLinkedList'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): error C2244: 'SLinkedList::operator =': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(223): note: see declaration of 'SLinkedList::operator ='
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): note: 'SLinkedList &SLinkedList::operator =(const SLinkedList &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): note: 'SLinkedList<T> &SLinkedList<T>::operator =(const SLinkedList<T> &)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\hashtable.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\hashtable.cpp(172): error C3867: 'UserAccount::GetUsername': non-standard syntax; use '&' to create a pointer to member
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\hashtable.cpp(172): error C2446: '==': no conversion from 'const char *' to 'std::string (__thiscall UserAccount::* )(void) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\hashtable.cpp(172): note: There is no context in which this conversion is possible
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\hashtable.cpp(172): error C2040: '==': 'std::string (__thiscall UserAccount::* )(void) const' differs in levels of indirection from 'const char [10]'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\hashtable.cpp(180): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\hashtable.cpp(216): error C2659: '=': function as left operand
+  a5simpledriver.cpp
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(5): error C2955: 'SLinkedList': use of class template requires template argument list
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.h(33): note: see declaration of 'SLinkedList'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): error C2244: 'SLinkedList::CopyList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(5): note: see declaration of 'SLinkedList::CopyList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): note: 'void SLinkedList::CopyList(const SLinkedList &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(16): note: 'void SLinkedList<T>::CopyList(const SLinkedList<T> &)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): error C2244: 'SLinkedList::DeleteList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(21): note: see declaration of 'SLinkedList::DeleteList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): note: 'int SLinkedList::DeleteList(void)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(34): note: 'void SLinkedList<T>::DeleteList(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): error C2244: 'SLinkedList::SLinkedList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(38): note: see declaration of 'SLinkedList::SLinkedList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: 'SLinkedList::SLinkedList(void)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: 'SLinkedList<T>::SLinkedList(const SLinkedList<T> &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(43): note: 'SLinkedList<T>::SLinkedList(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(47): error C2955: 'SLinkedList': use of class template requires template argument list
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.h(33): note: see declaration of 'SLinkedList'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): error C2244: 'SLinkedList::SLinkedList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(47): note: see declaration of 'SLinkedList::SLinkedList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: 'SLinkedList::SLinkedList(const SLinkedList &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: 'SLinkedList<T>::SLinkedList(const SLinkedList<T> &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(50): note: 'SLinkedList<T>::SLinkedList(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): error C2244: 'SLinkedList::~SLinkedList': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(54): note: see declaration of 'SLinkedList::~SLinkedList'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): note: 'SLinkedList::~SLinkedList(void)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(57): note: 'SLinkedList<T>::~SLinkedList(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): error C2244: 'SLinkedList::InsertFront': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(65): note: see declaration of 'SLinkedList::InsertFront'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): note: 'void SLinkedList::InsertFront(T)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(79): note: 'void SLinkedList<T>::InsertFront(T)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): error C2244: 'SLinkedList::InsertBack': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(85): note: see declaration of 'SLinkedList::InsertBack'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): note: 'void SLinkedList::InsertBack(T)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(99): note: 'void SLinkedList<T>::InsertBack(T)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): error C2244: 'SLinkedList::Remove': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(104): note: see declaration of 'SLinkedList::Remove'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): note: 'bool SLinkedList::Remove(T)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(129): note: 'bool SLinkedList<T>::Remove(T)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): error C2244: 'SLinkedList::RemoveAll': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(133): note: see declaration of 'SLinkedList::RemoveAll'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): note: 'void SLinkedList::RemoveAll(void)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(144): note: 'void SLinkedList<T>::RemoveAll(void)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): error C2244: 'SLinkedList::Size': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(150): note: see declaration of 'SLinkedList::Size'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): note: 'int SLinkedList::Size(void) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(153): note: 'int SLinkedList<T>::Size(void) const'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): error C2244: 'SLinkedList::IsEmpty': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(157): note: see declaration of 'SLinkedList::IsEmpty'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): note: 'bool SLinkedList::IsEmpty(void) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(160): note: 'bool SLinkedList<T>::IsEmpty(void) const'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): error C2244: 'SLinkedList::Contains': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(164): note: see declaration of 'SLinkedList::Contains'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): note: 'bool SLinkedList::Contains(T) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(177): note: 'bool SLinkedList<T>::Contains(T) const'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): error C2244: 'SLinkedList::Retrieve': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(181): note: see declaration of 'SLinkedList::Retrieve'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): note: 'T *SLinkedList::Retrieve(T)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(197): note: 'T *SLinkedList<T>::Retrieve(T)'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): error C2244: 'SLinkedList::Dump': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(201): note: see declaration of 'SLinkedList::Dump'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): note: 'std::vector<T,std::allocator<_Ty>> SLinkedList::Dump(void) const'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(215): note: 'std::vector<T,std::allocator<_Ty>> SLinkedList<T>::Dump(void) const'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(223): error C2955: 'SLinkedList': use of class template requires template argument list
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.h(33): note: see declaration of 'SLinkedList'
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): error C2244: 'SLinkedList::operator =': unable to match function definition to an existing declaration
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(223): note: see declaration of 'SLinkedList::operator ='
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): note: definition
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): note: 'SLinkedList &SLinkedList::operator =(const SLinkedList &)'
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): note: existing declarations
+  c:\users\mitchel eppich\documents\barewaregames\cmpt 225\project1\project1\slinkedlist.cpp(227): note: 'SLinkedList<T> &SLinkedList<T>::operator =(const SLinkedList<T> &)'
+  Generating Code...

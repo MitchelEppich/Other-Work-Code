@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Speech">
+      <UniqueIdentifier>{f6094e05-ba36-424c-a1eb-9f875a209868}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Speech">
+      <UniqueIdentifier>{dea2cc1c-003e-4bb6-be37-0977ea48c7b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Speech\Archive">
+      <UniqueIdentifier>{ea9a8e58-aacd-4e51-843f-7df90b23ac0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Speech\Archive">
+      <UniqueIdentifier>{1418bcc0-84ca-4933-9d9a-fa896c0857f1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="client.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="host.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="structure.h">
+      <Filter>Header Files\Speech</Filter>
+    </ClInclude>
+    <ClInclude Include="archive.h">
+      <Filter>Header Files\Speech\Archive</Filter>
+    </ClInclude>
+    <ClInclude Include="bank.h">
+      <Filter>Header Files\Speech\Archive</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="host.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="system.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="driver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structure.cpp">
+      <Filter>Source Files\Speech</Filter>
+    </ClCompile>
+    <ClCompile Include="archive.cpp">
+      <Filter>Source Files\Speech\Archive</Filter>
+    </ClCompile>
+    <ClCompile Include="bank.cpp">
+      <Filter>Source Files\Speech\Archive</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="abbreviation.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="adjective.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="adverb.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="article.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="compound.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="conjunction.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="contraction.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="declarative.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="exclamatory.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="imperative.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="interjection.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="interrogative.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="irregular_verb.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="noun.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="prefix.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="preposition.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="pronoun.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="punctuation.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="suffix.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="verb.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="regular_verb.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="!!ScrapPaper!!.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="phrase.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="response.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

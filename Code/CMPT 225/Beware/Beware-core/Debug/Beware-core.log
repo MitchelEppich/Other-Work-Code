@@ -1,0 +1,7 @@
+﻿  window.cpp
+c:\users\mitchel eppich\documents\barewaregames\cmpt 225\beware\beware-core\window.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  Beware-core.vcxproj -> C:\Users\Mitchel Eppich\Documents\Barewaregames\CMPT 225\Beware\Debug\Beware-core.exe
+  Beware-core.vcxproj -> C:\Users\Mitchel Eppich\Documents\Barewaregames\CMPT 225\Beware\Debug\Beware-core.pdb (Partial PDB)

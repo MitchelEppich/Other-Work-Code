@@ -1,0 +1,228 @@
+abbreviation 	
+abbr.
+absent without leave 	
+AWOL
+Academy 	
+Acad.
+altitude 	
+alt.
+amplitude modulation 	
+AM
+anno Domini 	
+A.D.
+ante meridiem	
+A.M.
+apartment 	
+apt.
+Association 	
+Assn.
+August 	
+Aug.
+Avenue 	
+Ave.
+Bachelor of Arts 	
+B.A.
+Bachelor of Science 	
+B.S.
+Before Christ 	
+B.C.
+born 	
+b.
+Boulevard 	
+Blvd.
+Captain 	
+Capt.
+Celsius 	
+C
+Centigrade
+C
+center 	
+ctr.
+centimeter 	
+cm
+century 	
+cent.
+circa 	
+c. 
+circa
+ca.
+Colonel 	
+Col.
+Corporal 	
+Cpl.
+Corporation 	
+Corp.
+Court 	
+Ct.
+cubic 	
+cu
+department 	
+dept.
+District of Columbia 	
+D.C.
+Doctor 	
+Dr.
+division 	
+div.
+Drive 	
+Dr.
+east 	
+E
+edition 	
+ed.
+exempli gratia 	
+e.g.
+et alia 
+et al.
+et cetera 
+etc.
+Fahrenheit 	
+F
+February 	
+Feb.
+foot 	
+ft.
+Fort 	
+Ft.
+frequency modulation 	
+FM
+gallon 	
+gal.
+General 	
+Gen.
+Governor 	
+Gov.
+Greenwich Mean Time 	
+GMT
+highway 	
+hwy.
+hour 	
+hr
+id est 
+i.e.
+inch 	
+in.
+incorporated 	
+inc.
+January 	
+Jan.
+Junior 	
+Jr.
+Kelvin 	
+K
+kilogram 	
+kg
+kilometer 	
+km
+Lake 	
+Lk.
+Lane 	
+Ln.
+library 	
+lib.
+latitude 	
+lat.
+library 	
+lib.
+Lieutenant 	
+Lt.
+Limited 	
+Ltd.
+longitude 	
+long.
+meter 	
+m
+minute 	
+min
+Medical Doctor 
+M.D.
+Medicinae Doctor
+M.D.
+mile 	
+mi
+miles per hour 	
+mph
+milligram 	
+mg
+millimeter 	
+mm
+Mister 	
+Mr.
+Monsignor 	
+Msgr.
+month 	
+mo.
+mountain 	
+mt.
+museum 	
+mus.
+north 	
+N
+November 	
+Nov.
+number 	
+no.
+October 	
+Oct.
+ounce 	
+oz.
+page 	
+p.
+pint 	
+pt.
+plural 	
+pl.
+population 	
+pop.
+post meridiem
+P.M.
+Professor 	
+Prof.
+quart 	
+qt.
+Road 	
+Rd.
+Registered Nurse 	
+R.N.
+revolutions per minute 	
+rpm
+second 	
+sec
+September 	
+Sept.
+Sergeant 	
+Sgt.
+Sister 	
+Sr.
+south 	
+S
+square 	
+sq
+Station 	
+Sta.
+Street 	
+St.
+suite 	
+ste.
+Sunday 	
+Sun.
+Terrace 	
+Ter.
+Turnpike 	
+Tpk.
+University 	
+Univ.
+United States of America 	
+USA
+United States of America
+U.S.A.
+United States
+US
+United States
+U.S.
+volume 	
+vol.
+weight 	
+wt.
+west 	
+W

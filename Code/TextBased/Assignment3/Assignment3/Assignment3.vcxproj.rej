@@ -1,0 +1,14 @@
+diff a/TextBased/Assignment3/Assignment3/Assignment3.vcxproj b/TextBased/Assignment3/Assignment3/Assignment3.vcxproj	(rejected hunks)
+@@ -113,6 +113,12 @@
+     <ClCompile Include="a3driver.cpp" />
+     <ClCompile Include="sorting.cpp" />
+   </ItemGroup>
++  <ItemGroup>
++    <Text Include="..\..\..\..\..\Downloads\test1.txt" />
++    <Text Include="..\..\..\..\..\Downloads\test2.txt" />
++    <Text Include="..\..\..\..\..\Downloads\test3.txt" />
++    <Text Include="..\..\..\..\..\Downloads\test4.txt" />
++  </ItemGroup>
+   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+   <ImportGroup Label="ExtensionTargets">
+   </ImportGroup>

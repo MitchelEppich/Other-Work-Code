@@ -1,0 +1,3954 @@
+fileFormatVersion: 2
+guid: ad83fa14d069c604ca2a342693237f7b
+timeCreated: 1464474719
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LongLegs_0
+    21300002: LongLegs_1
+    21300004: LongLegs_2
+    21300006: LongLegs_3
+    21300008: LongLegs_4
+    21300010: LongLegs_5
+    21300012: LongLegs_6
+    21300014: LongLegs_7
+    21300016: LongLegs_8
+    21300018: LongLegs_9
+    21300020: LongLegs_10
+    21300022: LongLegs_11
+    21300024: LongLegs_12
+    21300026: LongLegs_13
+    21300028: LongLegs_14
+    21300030: LongLegs_15
+    21300032: LongLegs_16
+    21300034: LongLegs_17
+    21300036: LongLegs_18
+    21300038: LongLegs_19
+    21300040: LongLegs_20
+    21300042: LongLegs_21
+    21300044: LongLegs_22
+    21300046: LongLegs_23
+    21300048: LongLegs_24
+    21300050: LongLegs_25
+    21300052: LongLegs_26
+    21300054: LongLegs_27
+    21300056: LongLegs_28
+    21300058: LongLegs_29
+    21300060: LongLegs_30
+    21300062: LongLegs_31
+    21300064: LongLegs_32
+    21300066: LongLegs_33
+    21300068: LongLegs_34
+    21300070: LongLegs_35
+    21300072: LongLegs_36
+    21300074: LongLegs_37
+    21300076: LongLegs_38
+    21300078: LongLegs_39
+    21300080: LongLegs_40
+    21300082: LongLegs_41
+    21300084: LongLegs_42
+    21300086: LongLegs_43
+    21300088: LongLegs_44
+    21300090: LongLegs_45
+    21300092: LongLegs_46
+    21300094: LongLegs_47
+    21300096: LongLegs_48
+    21300098: LongLegs_49
+    21300100: LongLegs_50
+    21300102: LongLegs_51
+    21300104: LongLegs_52
+    21300106: LongLegs_53
+    21300108: LongLegs_54
+    21300110: LongLegs_55
+    21300112: LongLegs_56
+    21300114: LongLegs_57
+    21300116: LongLegs_58
+    21300118: LongLegs_59
+    21300120: LongLegs_60
+    21300122: LongLegs_61
+    21300124: LongLegs_62
+    21300126: LongLegs_63
+    21300128: LongLegs_64
+    21300130: LongLegs_65
+    21300132: LongLegs_66
+    21300134: LongLegs_67
+    21300136: LongLegs_68
+    21300138: LongLegs_69
+    21300140: LongLegs_70
+    21300142: LongLegs_71
+    21300144: LongLegs_72
+    21300146: LongLegs_73
+    21300148: LongLegs_74
+    21300150: LongLegs_75
+    21300152: LongLegs_76
+    21300154: LongLegs_77
+    21300156: LongLegs_78
+    21300158: LongLegs_79
+    21300160: LongLegs_80
+    21300162: LongLegs_81
+    21300164: LongLegs_82
+    21300166: LongLegs_83
+    21300168: LongLegs_84
+    21300170: LongLegs_85
+    21300172: LongLegs_86
+    21300174: LongLegs_87
+    21300176: LongLegs_88
+    21300178: LongLegs_89
+    21300180: LongLegs_90
+    21300182: LongLegs_91
+    21300184: LongLegs_92
+    21300186: LongLegs_93
+    21300188: LongLegs_94
+    21300190: LongLegs_95
+    21300192: LongLegs_96
+    21300194: LongLegs_97
+    21300196: LongLegs_98
+    21300198: LongLegs_99
+    21300200: LongLegs_100
+    21300202: LongLegs_101
+    21300204: LongLegs_102
+    21300206: LongLegs_103
+    21300208: LongLegs_104
+    21300210: LongLegs_105
+    21300212: LongLegs_106
+    21300214: LongLegs_107
+    21300216: LongLegs_108
+    21300218: LongLegs_109
+    21300220: LongLegs_110
+    21300222: LongLegs_111
+    21300224: LongLegs_112
+    21300226: LongLegs_113
+    21300228: LongLegs_114
+    21300230: LongLegs_115
+    21300232: LongLegs_116
+    21300234: LongLegs_117
+    21300236: LongLegs_118
+    21300238: LongLegs_119
+    21300240: LongLegs_120
+    21300242: LongLegs_121
+    21300244: LongLegs_122
+    21300246: LongLegs_123
+    21300248: LongLegs_124
+    21300250: LongLegs_125
+    21300252: LongLegs_126
+    21300254: LongLegs_127
+    21300256: LongLegs_128
+    21300258: LongLegs_129
+    21300260: LongLegs_130
+    21300262: LongLegs_131
+    21300264: LongLegs_132
+    21300266: LongLegs_133
+    21300268: LongLegs_134
+    21300270: LongLegs_135
+    21300272: LongLegs_136
+    21300274: LongLegs_137
+    21300276: LongLegs_138
+    21300278: LongLegs_139
+    21300280: LongLegs_140
+    21300282: LongLegs_141
+    21300284: LongLegs_142
+    21300286: LongLegs_143
+    21300288: LongLegs_144
+    21300290: LongLegs_145
+    21300292: LongLegs_146
+    21300294: LongLegs_147
+    21300296: LongLegs_148
+    21300298: LongLegs_149
+    21300300: LongLegs_150
+    21300302: LongLegs_151
+    21300304: LongLegs_152
+    21300306: LongLegs_153
+    21300308: LongLegs_154
+    21300310: LongLegs_155
+    21300312: LongLegs_156
+    21300314: LongLegs_157
+    21300316: LongLegs_158
+    21300318: LongLegs_159
+    21300320: LongLegs_160
+    21300322: LongLegs_161
+    21300324: LongLegs_162
+    21300326: LongLegs_163
+    21300328: LongLegs_164
+    21300330: LongLegs_165
+    21300332: LongLegs_166
+    21300334: LongLegs_167
+    21300336: LongLegs_168
+    21300338: LongLegs_169
+    21300340: LongLegs_170
+    21300342: LongLegs_171
+    21300344: LongLegs_172
+    21300346: LongLegs_173
+    21300348: LongLegs_174
+    21300350: LongLegs_175
+    21300352: LongLegs_176
+    21300354: LongLegs_177
+    21300356: LongLegs_178
+    21300358: LongLegs_179
+    21300360: LongLegs_180
+    21300362: LongLegs_181
+    21300364: LongLegs_182
+    21300366: LongLegs_183
+    21300368: LongLegs_184
+    21300370: LongLegs_185
+    21300372: LongLegs_186
+    21300374: LongLegs_187
+    21300376: LongLegs_188
+    21300378: LongLegs_189
+    21300380: LongLegs_190
+    21300382: LongLegs_191
+    21300384: LongLegs_192
+    21300386: LongLegs_193
+    21300388: LongLegs_194
+    21300390: LongLegs_195
+    21300392: LongLegs_196
+    21300394: LongLegs_197
+    21300396: LongLegs_198
+    21300398: LongLegs_199
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LongLegs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: LongLegs_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -4, y: 10}
+        - {x: -5, y: 6}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -12}
+        - {x: 6, y: 3}
+        - {x: 5, y: 9}
+    - name: LongLegs_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 9}
+        - {x: 6, y: 10}
+        - {x: -3, y: 10}
+        - {x: -6, y: 2}
+    - name: LongLegs_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 10}
+        - {x: -2, y: 10}
+        - {x: -6, y: 9}
+        - {x: -8, y: -14}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: -6}
+        - {x: 6, y: 4}
+    - name: LongLegs_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -8, y: -2}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: -7}
+        - {x: 5, y: 4}
+        - {x: 3, y: 9}
+    - name: LongLegs_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 9}
+        - {x: -7, y: 4}
+        - {x: -7, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 5}
+        - {x: 4, y: 9}
+    - name: LongLegs_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -5, y: 9}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: 10}
+    - name: LongLegs_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -5, y: -14}
+        - {x: -3, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -8}
+        - {x: 6, y: 6}
+        - {x: 4, y: 10}
+    - name: LongLegs_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -6, y: 3}
+        - {x: -6, y: -5}
+        - {x: -4, y: -16}
+        - {x: 3, y: -16}
+        - {x: 6, y: -15}
+        - {x: 6, y: 7}
+        - {x: 3, y: 10}
+    - name: LongLegs_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -16}
+        - {x: 7, y: -14}
+        - {x: 7, y: 6}
+        - {x: 6, y: 10}
+        - {x: -6, y: 10}
+        - {x: -6, y: -15}
+        - {x: -5, y: -16}
+        - {x: 0, y: -16}
+        - {x: 1, y: -12}
+        - {x: 1, y: -14}
+        - {x: 2, y: -16}
+    - name: LongLegs_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -7, y: 5}
+        - {x: -7, y: -11}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 6}
+        - {x: 3, y: 9}
+    - name: LongLegs_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -16}
+        - {x: 6, y: 9}
+        - {x: -6, y: 9}
+        - {x: -6, y: -16}
+    - name: LongLegs_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -6, y: 6}
+        - {x: -6, y: -7}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: 1}
+        - {x: 5, y: 9}
+        - {x: 3, y: 10}
+    - name: LongLegs_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -5, y: 3}
+        - {x: -5, y: -2}
+        - {x: -3, y: -13}
+        - {x: -2, y: -16}
+        - {x: 3, y: -16}
+        - {x: 5, y: -11}
+        - {x: 5, y: 10}
+    - name: LongLegs_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: LongLegs_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -4, y: 7}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -3}
+        - {x: 6, y: 4}
+        - {x: 3, y: 9}
+    - name: LongLegs_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -4, y: 7}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -3}
+        - {x: 6, y: 4}
+        - {x: 3, y: 9}
+    - name: LongLegs_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -4, y: 7}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -3}
+        - {x: 6, y: 4}
+        - {x: 3, y: 9}
+    - name: LongLegs_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: LongLegs_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -15}
+        - {x: 5, y: 10}
+    - name: LongLegs_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -14}
+        - {x: 6, y: -11}
+        - {x: 6, y: 1}
+        - {x: 5, y: 9}
+        - {x: 3, y: 10}
+        - {x: -4, y: 10}
+        - {x: -5, y: 4}
+        - {x: -5, y: -6}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+    - name: LongLegs_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -15}
+        - {x: 5, y: 10}
+    - name: LongLegs_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -5, y: 4}
+        - {x: -5, y: -7}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 10}
+    - name: LongLegs_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -6, y: 3}
+        - {x: -6, y: -5}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 6, y: -4}
+        - {x: 6, y: 5}
+        - {x: 3, y: 10}
+    - name: LongLegs_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 10}
+        - {x: -4, y: 10}
+        - {x: -5, y: 4}
+        - {x: -5, y: -7}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -9}
+        - {x: 6, y: 8}
+        - {x: 5, y: 9}
+    - name: LongLegs_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -6, y: 6}
+        - {x: -6, y: -14}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 6, y: -1}
+        - {x: 6, y: 3}
+        - {x: 3, y: 9}
+    - name: LongLegs_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 9}
+    - name: LongLegs_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 9}
+    - name: LongLegs_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -14}
+        - {x: 6, y: -11}
+        - {x: 7, y: -6}
+        - {x: 7, y: 4}
+        - {x: 5, y: 9}
+        - {x: -2, y: 9}
+        - {x: -6, y: 4}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+    - name: LongLegs_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 9}
+    - name: LongLegs_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 9}
+    - name: LongLegs_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -14}
+        - {x: 6, y: -11}
+        - {x: 7, y: -6}
+        - {x: 7, y: 4}
+        - {x: 5, y: 9}
+        - {x: -2, y: 9}
+        - {x: -6, y: 4}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+    - name: LongLegs_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 9}
+    - name: LongLegs_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 9}
+    - name: LongLegs_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 4}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 6}
+        - {x: 5, y: 9}
+    - name: LongLegs_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 4}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 6}
+        - {x: 5, y: 9}
+    - name: LongLegs_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 4}
+        - {x: 3, y: 9}
+        - {x: -3, y: 9}
+        - {x: -6, y: 6}
+        - {x: -6, y: -5}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 4, y: -9}
+        - {x: 6, y: 1}
+    - name: LongLegs_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 4}
+        - {x: 3, y: 9}
+        - {x: -3, y: 9}
+        - {x: -6, y: 6}
+        - {x: -6, y: -5}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 4, y: -9}
+        - {x: 6, y: 1}
+    - name: LongLegs_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -6, y: 7}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 3, y: -16}
+        - {x: 6, y: -7}
+        - {x: 6, y: 5}
+        - {x: 3, y: 9}
+    - name: LongLegs_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -6, y: 7}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 3, y: -16}
+        - {x: 6, y: -7}
+        - {x: 6, y: 5}
+        - {x: 3, y: 9}
+    - name: LongLegs_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -2}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 9}
+        - {x: -3, y: 9}
+        - {x: -6, y: 5}
+    - name: LongLegs_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 9}
+        - {x: -6, y: 9}
+        - {x: -6, y: 1}
+        - {x: -5, y: -16}
+        - {x: 2, y: -16}
+        - {x: 5, y: -14}
+        - {x: 6, y: -7}
+        - {x: 6, y: 6}
+    - name: LongLegs_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -7}
+        - {x: 5, y: 9}
+    - name: LongLegs_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -7}
+        - {x: 5, y: 9}
+    - name: LongLegs_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 9}
+    - name: LongLegs_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 9}
+    - name: LongLegs_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -14}
+        - {x: 6, y: -11}
+        - {x: 7, y: -6}
+        - {x: 7, y: 4}
+        - {x: 5, y: 9}
+        - {x: -2, y: 9}
+        - {x: -6, y: 4}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+    - name: LongLegs_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 9}
+    - name: LongLegs_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 9}
+    - name: LongLegs_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 3, y: -16}
+        - {x: 5, y: -15}
+        - {x: 6, y: -9}
+        - {x: 6, y: 9}
+    - name: LongLegs_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -7}
+        - {x: 5, y: 9}
+    - name: LongLegs_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -5, y: 4}
+        - {x: -5, y: -9}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -8}
+        - {x: 5, y: 5}
+        - {x: 4, y: 9}
+    - name: LongLegs_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: LongLegs_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -5, y: 5}
+        - {x: -5, y: -8}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: 10}
+    - name: LongLegs_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 3}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -4, y: 10}
+        - {x: -5, y: 6}
+        - {x: -5, y: -7}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -4}
+        - {x: 6, y: 4}
+        - {x: 5, y: 9}
+    - name: LongLegs_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 9}
+        - {x: 2, y: 10}
+        - {x: -2, y: 10}
+        - {x: -6, y: 6}
+        - {x: -6, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -6}
+        - {x: 7, y: 4}
+    - name: LongLegs_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 10}
+        - {x: -5, y: 10}
+        - {x: -7, y: 8}
+        - {x: -7, y: -5}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 7, y: -3}
+        - {x: 7, y: 3}
+    - name: LongLegs_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 10}
+        - {x: -6, y: 6}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 6, y: -8}
+        - {x: 6, y: 6}
+        - {x: 3, y: 10}
+    - name: LongLegs_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 10}
+        - {x: -4, y: 7}
+        - {x: -5, y: -3}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: 10}
+    - name: LongLegs_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: -12}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: 10}
+    - name: LongLegs_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 9}
+        - {x: -5, y: 2}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -3}
+        - {x: 8, y: 4}
+        - {x: 4, y: 9}
+    - name: LongLegs_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -4, y: 7}
+        - {x: -5, y: 3}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 4, y: 8}
+        - {x: 2, y: 9}
+      - - {x: 8, y: -1}
+        - {x: 11, y: 0}
+        - {x: 11, y: 3}
+        - {x: 8, y: 4}
+        - {x: 6, y: 2}
+    - name: LongLegs_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -5, y: 5}
+        - {x: -5, y: -6}
+        - {x: -3, y: -16}
+        - {x: 4, y: -16}
+        - {x: 4, y: 10}
+      - - {x: 11, y: -4}
+        - {x: 14, y: -3}
+        - {x: 14, y: 0}
+        - {x: 11, y: 1}
+        - {x: 9, y: -1}
+    - name: LongLegs_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -5, y: -4}
+        - {x: -3, y: -16}
+        - {x: 3, y: -16}
+        - {x: 5, y: -8}
+        - {x: 5, y: 8}
+        - {x: 4, y: 10}
+      - - {x: 12, y: -5}
+        - {x: 14, y: -8}
+        - {x: 16, y: -7}
+        - {x: 16, y: -4}
+        - {x: 14, y: -3}
+    - name: LongLegs_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -5, y: 8}
+        - {x: -6, y: 1}
+        - {x: -3, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: 1}
+        - {x: 8, y: 6}
+        - {x: 5, y: 9}
+    - name: LongLegs_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -7, y: 4}
+        - {x: -7, y: -2}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 11, y: -1}
+        - {x: 11, y: 6}
+        - {x: 3, y: 10}
+    - name: LongLegs_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -7, y: 8}
+        - {x: -7, y: 5}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 10}
+      - - {x: 11, y: -2}
+        - {x: 14, y: -1}
+        - {x: 14, y: 2}
+        - {x: 11, y: 3}
+        - {x: 9, y: 1}
+    - name: LongLegs_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 7}
+        - {x: 3, y: 10}
+        - {x: -2, y: 10}
+        - {x: -6, y: 6}
+        - {x: -6, y: -16}
+        - {x: 5, y: -16}
+      - - {x: 12, y: -1}
+        - {x: 14, y: -4}
+        - {x: 16, y: -3}
+        - {x: 16, y: 0}
+        - {x: 14, y: 1}
+    - name: LongLegs_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 9}
+        - {x: -5, y: 7}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: 8}
+        - {x: 3, y: 9}
+    - name: LongLegs_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -5, y: 4}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: 10}
+    - name: LongLegs_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 7}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: 10}
+    - name: LongLegs_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -5, y: 4}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: 9}
+        - {x: 3, y: 10}
+    - name: LongLegs_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 9}
+        - {x: -5, y: 3}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 9}
+    - name: LongLegs_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -5, y: 5}
+        - {x: -5, y: -6}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: 5}
+        - {x: 3, y: 9}
+      - - {x: 9, y: -1}
+        - {x: 12, y: 0}
+        - {x: 12, y: 3}
+        - {x: 9, y: 4}
+        - {x: 7, y: 2}
+    - name: LongLegs_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -5, y: 5}
+        - {x: -5, y: -8}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: 10}
+      - - {x: 12, y: -4}
+        - {x: 15, y: -3}
+        - {x: 15, y: 0}
+        - {x: 12, y: 1}
+        - {x: 10, y: -1}
+    - name: LongLegs_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+      - - {x: 13, y: -5}
+        - {x: 15, y: -7}
+        - {x: 16, y: -7}
+        - {x: 16, y: -2}
+        - {x: 14, y: -2}
+    - name: LongLegs_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: LongLegs_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 3, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 10}
+    - name: LongLegs_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 10}
+        - {x: -4, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 6, y: -13}
+        - {x: 6, y: 9}
+        - {x: 3, y: 10}
+    - name: LongLegs_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -6, y: -16}
+        - {x: 3, y: -16}
+        - {x: 8, y: -10}
+        - {x: 8, y: 6}
+        - {x: 6, y: 10}
+    - name: LongLegs_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -10}
+        - {x: 9, y: -4}
+        - {x: 9, y: 1}
+        - {x: 7, y: 4}
+        - {x: 4, y: 8}
+        - {x: 2, y: 10}
+        - {x: -3, y: 10}
+        - {x: -7, y: 3}
+        - {x: -7, y: -3}
+        - {x: -4, y: -16}
+        - {x: 1, y: -16}
+        - {x: 1, y: -3}
+        - {x: 2, y: -8}
+        - {x: 4, y: -10}
+    - name: LongLegs_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -7, y: 7}
+        - {x: -7, y: -1}
+        - {x: -3, y: -16}
+        - {x: 5, y: -16}
+        - {x: 10, y: -4}
+        - {x: 10, y: 4}
+        - {x: 2, y: 10}
+    - name: LongLegs_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -7, y: 5}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -15}
+        - {x: 10, y: 5}
+        - {x: 9, y: 7}
+        - {x: 3, y: 10}
+    - name: LongLegs_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 10}
+        - {x: -7, y: 10}
+        - {x: -7, y: -11}
+        - {x: -6, y: -16}
+        - {x: 1, y: -16}
+        - {x: 9, y: -8}
+        - {x: 9, y: -1}
+    - name: LongLegs_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 8}
+        - {x: -6, y: 5}
+        - {x: -6, y: -9}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -12}
+        - {x: 8, y: 4}
+        - {x: 5, y: 8}
+    - name: LongLegs_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 5}
+        - {x: -7, y: 0}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: -7}
+        - {x: 6, y: 4}
+        - {x: 3, y: 5}
+    - name: LongLegs_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 7}
+        - {x: -6, y: 6}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 2}
+        - {x: 3, y: 7}
+    - name: LongLegs_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 10}
+        - {x: -4, y: 9}
+        - {x: -5, y: 1}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 5}
+        - {x: 3, y: 10}
+    - name: LongLegs_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: 10}
+    - name: LongLegs_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: LongLegs_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -5, y: 5}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 10}
+    - name: LongLegs_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -15}
+        - {x: 6, y: -12}
+        - {x: 7, y: -6}
+        - {x: 7, y: 6}
+        - {x: 4, y: 10}
+        - {x: -5, y: 10}
+        - {x: -6, y: 6}
+        - {x: -6, y: -16}
+        - {x: -1, y: -16}
+        - {x: 0, y: -14}
+        - {x: 0, y: -8}
+        - {x: 0, y: -13}
+    - name: LongLegs_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -6}
+        - {x: 5, y: 1}
+        - {x: 0, y: 7}
+        - {x: -3, y: 10}
+        - {x: -9, y: 10}
+        - {x: -10, y: 8}
+        - {x: -10, y: -6}
+        - {x: -4, y: -16}
+        - {x: 1, y: -16}
+        - {x: 1, y: -13}
+        - {x: 4, y: -14}
+        - {x: 7, y: -12}
+    - name: LongLegs_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -9, y: -4}
+        - {x: -6, y: -16}
+        - {x: 3, y: -16}
+        - {x: 7, y: -14}
+        - {x: 7, y: -5}
+        - {x: 4, y: 7}
+        - {x: 1, y: 10}
+    - name: LongLegs_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 8}
+        - {x: 0, y: 10}
+        - {x: -5, y: 10}
+        - {x: -8, y: 6}
+        - {x: -8, y: -4}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: -6}
+        - {x: 5, y: 5}
+    - name: LongLegs_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -6, y: -5}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 6, y: 3}
+        - {x: 6, y: 4}
+        - {x: 2, y: 10}
+    - name: LongLegs_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -2, y: 10}
+        - {x: -4, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -7}
+        - {x: 7, y: 5}
+        - {x: 5, y: 9}
+    - name: LongLegs_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 10}
+        - {x: -4, y: 10}
+        - {x: -5, y: 4}
+        - {x: -5, y: -7}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -4}
+        - {x: 6, y: 5}
+        - {x: 5, y: 9}
+    - name: LongLegs_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: LongLegs_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 10}
+        - {x: -4, y: 10}
+        - {x: -5, y: 4}
+        - {x: -5, y: -7}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -4}
+        - {x: 6, y: 5}
+        - {x: 5, y: 9}
+    - name: LongLegs_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 10}
+        - {x: -2, y: 10}
+    - name: LongLegs_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 10}
+        - {x: -5, y: 10}
+        - {x: -7, y: 7}
+        - {x: -7, y: 2}
+        - {x: -4, y: -16}
+        - {x: 2, y: -16}
+        - {x: 6, y: -13}
+        - {x: 7, y: -11}
+        - {x: 7, y: 6}
+    - name: LongLegs_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -7, y: 6}
+        - {x: -7, y: 4}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 7, y: -12}
+        - {x: 7, y: 7}
+        - {x: 3, y: 10}
+    - name: LongLegs_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -6, y: 6}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 7, y: 2}
+        - {x: 7, y: 10}
+    - name: LongLegs_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -7, y: 7}
+        - {x: -7, y: -9}
+        - {x: -6, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: 3}
+        - {x: 7, y: 5}
+        - {x: 3, y: 10}
+    - name: LongLegs_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 10}
+        - {x: -5, y: 10}
+        - {x: -7, y: 7}
+        - {x: -7, y: -3}
+        - {x: -4, y: -16}
+        - {x: 2, y: -16}
+        - {x: 6, y: -13}
+        - {x: 7, y: -6}
+        - {x: 7, y: 5}
+    - name: LongLegs_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -6, y: 9}
+        - {x: -7, y: 8}
+        - {x: -7, y: -4}
+        - {x: -4, y: -16}
+        - {x: 3, y: -16}
+        - {x: 6, y: -15}
+        - {x: 6, y: 9}
+        - {x: 3, y: 10}
+    - name: LongLegs_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 10}
+        - {x: -6, y: 10}
+        - {x: -7, y: 8}
+        - {x: -7, y: -3}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -13}
+        - {x: 7, y: -5}
+        - {x: 7, y: 7}
+    - name: LongLegs_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 10}
+        - {x: -3, y: 10}
+        - {x: -7, y: 7}
+        - {x: -7, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: 3}
+        - {x: 7, y: 5}
+    - name: LongLegs_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 10}
+        - {x: -7, y: 7}
+        - {x: -9, y: -12}
+        - {x: -7, y: -14}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 7, y: 3}
+        - {x: 7, y: 10}
+    - name: LongLegs_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -7, y: 7}
+        - {x: -7, y: -14}
+        - {x: -6, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: 0}
+        - {x: 7, y: 4}
+        - {x: 3, y: 10}
+    - name: LongLegs_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -7, y: 6}
+        - {x: -7, y: -14}
+        - {x: -6, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: 3}
+        - {x: 7, y: 5}
+        - {x: 3, y: 10}
+    - name: LongLegs_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -7, y: 8}
+        - {x: -7, y: -4}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: 3}
+        - {x: 7, y: 5}
+        - {x: 3, y: 10}
+    - name: LongLegs_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 10}
+        - {x: -8, y: -4}
+        - {x: -6, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -1}
+        - {x: 6, y: 7}
+        - {x: 4, y: 10}
+    - name: LongLegs_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -8, y: 8}
+        - {x: -8, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -6}
+        - {x: 6, y: 8}
+        - {x: 1, y: 10}
+    - name: LongLegs_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 10}
+        - {x: -8, y: -4}
+        - {x: -6, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -1}
+        - {x: 6, y: 7}
+        - {x: 4, y: 10}
+    - name: LongLegs_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -8, y: 8}
+        - {x: -8, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -6}
+        - {x: 6, y: 8}
+        - {x: 1, y: 10}
+    - name: LongLegs_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 10}
+        - {x: -8, y: -4}
+        - {x: -6, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -1}
+        - {x: 6, y: 7}
+        - {x: 4, y: 10}
+    - name: LongLegs_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -7, y: 8}
+        - {x: -7, y: -4}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: 3}
+        - {x: 7, y: 5}
+        - {x: 3, y: 10}
+    - name: LongLegs_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -7, y: 8}
+        - {x: -7, y: -4}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: 3}
+        - {x: 7, y: 5}
+        - {x: 3, y: 10}
+    - name: LongLegs_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: 5}
+        - {x: 4, y: 10}
+        - {x: -1, y: 10}
+    - name: LongLegs_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -11}
+        - {x: -6, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: 1}
+        - {x: 8, y: 8}
+        - {x: 5, y: 10}
+    - name: LongLegs_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: 5}
+        - {x: 4, y: 10}
+        - {x: -1, y: 10}
+    - name: LongLegs_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -11}
+        - {x: -6, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: 1}
+        - {x: 8, y: 8}
+        - {x: 5, y: 10}
+    - name: LongLegs_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: 5}
+        - {x: 4, y: 10}
+        - {x: -1, y: 10}
+    - name: LongLegs_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -4}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: -1}
+        - {x: 7, y: 8}
+        - {x: 5, y: 10}
+    - name: LongLegs_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -7, y: 6}
+        - {x: -7, y: -4}
+        - {x: -4, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 10}
+    - name: LongLegs_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -2, y: 10}
+        - {x: -5, y: 9}
+        - {x: -6, y: 3}
+        - {x: -6, y: -4}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -4}
+        - {x: 6, y: 3}
+        - {x: 5, y: 9}
+    - name: LongLegs_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -6, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: LongLegs_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -6, y: 8}
+        - {x: -6, y: -6}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 10}
+    - name: LongLegs_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 10}
+        - {x: -7, y: 10}
+        - {x: -7, y: -8}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: -10}
+        - {x: 7, y: 4}
+        - {x: 5, y: 9}
+    - name: LongLegs_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 9}
+        - {x: -3, y: 9}
+        - {x: -6, y: 8}
+        - {x: -6, y: -16}
+        - {x: 2, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 0}
+        - {x: 6, y: 8}
+    - name: LongLegs_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 7}
+        - {x: 0, y: 7}
+        - {x: -6, y: 4}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 5}
+    - name: LongLegs_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 2}
+        - {x: -7, y: -1}
+        - {x: -8, y: -7}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: -4}
+        - {x: 4, y: 2}
+    - name: LongLegs_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -1}
+        - {x: -2, y: -1}
+        - {x: -8, y: -5}
+        - {x: -9, y: -9}
+        - {x: -9, y: -15}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -13}
+        - {x: 7, y: -7}
+    - name: LongLegs_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -7}
+        - {x: -9, y: -11}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -13}
+        - {x: 5, y: -7}
+    - name: LongLegs_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -8}
+        - {x: -9, y: -14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -12}
+        - {x: 4, y: -8}
+    - name: LongLegs_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -8}
+        - {x: -9, y: -13}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -11}
+        - {x: 5, y: -8}
+    - name: LongLegs_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -9}
+        - {x: -9, y: -14}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -13}
+        - {x: 5, y: -9}
+    - name: LongLegs_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: LongLegs_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -6, y: -4}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 10}
+    - name: LongLegs_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -4, y: 10}
+        - {x: -7, y: 7}
+        - {x: -7, y: -6}
+        - {x: -5, y: -16}
+        - {x: 1, y: -16}
+        - {x: 7, y: -11}
+        - {x: 7, y: 1}
+        - {x: 5, y: 9}
+    - name: LongLegs_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 11}
+        - {x: -3, y: 11}
+        - {x: -8, y: 9}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -3}
+        - {x: 5, y: 10}
+    - name: LongLegs_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 11}
+        - {x: -3, y: 11}
+        - {x: -8, y: 9}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -3}
+        - {x: 5, y: 10}
+    - name: LongLegs_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -7, y: 10}
+        - {x: -7, y: -16}
+        - {x: 2, y: -16}
+        - {x: 7, y: -14}
+        - {x: 7, y: 2}
+        - {x: 5, y: 9}
+    - name: LongLegs_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -11}
+        - {x: -6, y: -16}
+        - {x: 3, y: -16}
+        - {x: 7, y: -15}
+        - {x: 7, y: -3}
+        - {x: 5, y: 11}
+        - {x: 0, y: 12}
+        - {x: -7, y: 10}
+    - name: LongLegs_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -8, y: 4}
+        - {x: -8, y: -5}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 10}
+        - {x: 2, y: 11}
+    - name: LongLegs_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -7, y: 8}
+        - {x: -7, y: -3}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 7, y: -12}
+        - {x: 7, y: 8}
+        - {x: 4, y: 11}
+    - name: LongLegs_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -6, y: 7}
+        - {x: -6, y: 4}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+        - {x: 3, y: 11}
+    - name: LongLegs_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -7, y: 7}
+        - {x: -7, y: -3}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 6, y: -7}
+        - {x: 6, y: 7}
+        - {x: 3, y: 10}
+    - name: LongLegs_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -6, y: 5}
+        - {x: -6, y: 1}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -3}
+        - {x: 6, y: 4}
+        - {x: 3, y: 9}
+    - name: LongLegs_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -5, y: 4}
+        - {x: -5, y: -9}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -8}
+        - {x: 5, y: 5}
+        - {x: 4, y: 9}
+    - name: LongLegs_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    - name: LongLegs_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: LongLegs_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 10}
+        - {x: -4, y: 10}
+        - {x: -5, y: 4}
+        - {x: -5, y: -7}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -4}
+        - {x: 6, y: 5}
+        - {x: 5, y: 9}
+    - name: LongLegs_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -6, y: 2}
+        - {x: -6, y: -8}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 9}
+    - name: LongLegs_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -6, y: 4}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 8}
+    - name: LongLegs_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 7}
+        - {x: -6, y: 2}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 5}
+        - {x: 4, y: 7}
+    - name: LongLegs_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 5}
+        - {x: -8, y: -3}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 2}
+        - {x: 4, y: 5}
+    - name: LongLegs_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -2}
+        - {x: 6, y: 3}
+        - {x: -3, y: 3}
+        - {x: -9, y: -6}
+        - {x: -9, y: -16}
+        - {x: -2, y: -16}
+        - {x: 0, y: -14}
+        - {x: 2, y: -16}
+        - {x: 8, y: -16}
+    - name: LongLegs_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 1}
+        - {x: 2, y: 1}
+        - {x: -4, y: -6}
+        - {x: -7, y: -15}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: -1}
+    - name: LongLegs_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -15}
+        - {x: 8, y: -2}
+        - {x: 5, y: 3}
+        - {x: -1, y: 3}
+        - {x: -6, y: -3}
+        - {x: -8, y: -16}
+        - {x: -3, y: -16}
+        - {x: -1, y: -14}
+        - {x: 1, y: -16}
+        - {x: 7, y: -16}
+    - name: LongLegs_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 0}
+        - {x: 5, y: 6}
+        - {x: -4, y: 6}
+        - {x: -5, y: 5}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+    - name: LongLegs_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -5, y: -3}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -8}
+        - {x: 5, y: 8}
+        - {x: 4, y: 10}
+    - name: LongLegs_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: LongLegs_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -6, y: 7}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 9}
+    - name: LongLegs_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 8}
+        - {x: -6, y: 4}
+        - {x: -7, y: -4}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: 6}
+        - {x: 2, y: 8}
+    - name: LongLegs_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 6}
+        - {x: -7, y: 5}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 6}
+    - name: LongLegs_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 5}
+        - {x: -7, y: 1}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 3}
+        - {x: 2, y: 5}
+    - name: LongLegs_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 6}
+        - {x: 6, y: 7}
+    - name: LongLegs_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 8}
+        - {x: -7, y: 5}
+        - {x: -7, y: -7}
+        - {x: -6, y: -15}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 7}
+        - {x: 3, y: 8}
+    - name: LongLegs_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 8}
+        - {x: -1, y: 8}
+        - {x: -7, y: 5}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -7}
+        - {x: 7, y: 6}
+    - name: LongLegs_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 9}
+        - {x: -2, y: 9}
+        - {x: -6, y: 4}
+        - {x: -6, y: 1}
+        - {x: -4, y: -13}
+        - {x: -3, y: -16}
+        - {x: 5, y: -16}
+        - {x: 6, y: -6}
+        - {x: 6, y: 8}
+    - name: LongLegs_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 5}
+        - {x: -6, y: 1}
+        - {x: -6, y: -11}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 4}
+        - {x: 5, y: 5}
+    - name: LongLegs_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 7}
+        - {x: -6, y: 0}
+        - {x: -6, y: -5}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 6, y: -13}
+        - {x: 6, y: 5}
+        - {x: 5, y: 7}
+    - name: LongLegs_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 9}
+        - {x: -6, y: 4}
+        - {x: -6, y: -6}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 9}
+    - name: LongLegs_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 10}
+        - {x: -4, y: 7}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -9}
+        - {x: 6, y: 6}
+        - {x: 5, y: 10}
+    - name: LongLegs_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -4, y: 8}
+        - {x: -5, y: 1}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -6}
+        - {x: 5, y: 9}
+        - {x: 2, y: 10}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

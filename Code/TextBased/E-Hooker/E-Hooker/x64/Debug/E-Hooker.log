@@ -1,0 +1,6 @@
+﻿  structure.cpp
+c:\users\squea\documents\barewaregames\textbased\e-hooker\e-hooker\structure.cpp(223): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\squea\documents\barewaregames\textbased\e-hooker\e-hooker\structure.cpp(225): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\squea\documents\barewaregames\textbased\e-hooker\e-hooker\structure.cpp(123): warning C4715: 'Structure::Aquire': not all control paths return a value
+  E-Hooker.vcxproj -> C:\Users\squea\Documents\BarewareGames\TextBased\E-Hooker\x64\Debug\E-Hooker.exe
+  E-Hooker.vcxproj -> C:\Users\squea\Documents\BarewareGames\TextBased\E-Hooker\x64\Debug\E-Hooker.pdb (Partial PDB)

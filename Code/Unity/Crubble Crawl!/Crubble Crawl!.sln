@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crubble Crawl!", "Assembly-CSharp-firstpass.csproj", "{A441C036-4C89-4CC4-E429-2BD48A7593E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crubble Crawl!", "Assembly-CSharp.csproj", "{90EEA0BE-A753-C4A9-340A-A1A3947B8CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A441C036-4C89-4CC4-E429-2BD48A7593E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A441C036-4C89-4CC4-E429-2BD48A7593E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A441C036-4C89-4CC4-E429-2BD48A7593E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A441C036-4C89-4CC4-E429-2BD48A7593E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90EEA0BE-A753-C4A9-340A-A1A3947B8CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EEA0BE-A753-C4A9-340A-A1A3947B8CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EEA0BE-A753-C4A9-340A-A1A3947B8CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EEA0BE-A753-C4A9-340A-A1A3947B8CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

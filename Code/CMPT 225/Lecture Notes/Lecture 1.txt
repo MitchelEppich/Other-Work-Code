@@ -1,0 +1,68 @@
+Lecture 1
+
+Polish Notation -> postfix notation -> [5 1 2 + 4 * + 3 - ~> 5 + ((1 + 2) * 4) - 3] <- Infix Notation
+
+Evaluation of postfix :
+	5 1 2 + 4 * + 3 -	(Store 5)
+						(Store 1)
+						(Store 2)
+						(Apply + to the last two values)
+	5 3 4 * + 3 -		(Store 4)
+						(Apply * to the last two values)
+	5 12 + 3 -			(Apply + to the last two values)
+	17 3 -				(Store 3)
+						(Apply - to the last two values)
+	14
+
+	(Use a delimiter to diferentiate each operand/operator)
+
+	return sum -> 14
+
+	Use a numeric stack for this problem.
+
+How :
+	for each input symbol
+		- if symbol is operand
+			- store(operand)
+		- if symbol is operator
+			- RHS = remove()
+			- LHS = remove()
+			- result = LHS operator RHS
+			- Store (result)
+
+	Result = remove()
+
+	[___ _ ___]
+	[LHS _ RHS]
+	[	 ^	  ]
+	[ OPERATOR]
+
+This process is known as LIFO (Last in first out)
+	- These data structures are referred to as stacks
+
+STACKS
+    - Only allow insertion/access/removal from one end (top)
+    - The first item will be at the (bottom)
+    - Access to other items in a stack is restricted
+    
+Collection of Data
+    - Describes what data is stored but not how it is stored   
+    
+Operations on the data 
+    - Descirbes what effects the operations have on the data but
+    - Does not specify how operations are carried out
+    
+- Mutators
+    - Modify data contents
+        - Removing or inserting
+    - Known as setters
+- Accessors
+    - Known as getters
+    - Do not modify, simply view
+    - Ask if it is full
+    - How many items... etc.
+- Constructors
+    - Create instances of our class
+- Other
+
+Excercise Avaliable on postfix evaluation.

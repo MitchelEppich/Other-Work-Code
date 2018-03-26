@@ -1,0 +1,10 @@
+it
+pronoun
+is
+verb
+a
+article
+beautiful
+adjective
+day
+noun
